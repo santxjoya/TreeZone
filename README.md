@@ -8,7 +8,7 @@ Este proyecto está desarrollado en **PHP orientado a objetos** y tiene como obj
 - **Visualización por zonas**: El proyecto segmenta la ciudad en diversas zonas y muestra el porcentaje de contaminación en cada una.
 - **Identificación de áreas más y menos contaminadas**: Permite a los usuarios conocer las zonas más afectadas por la contaminación y aquellas que presentan mejor calidad del aire.
 
-## Tecnologías utilizadas 🔧⚙️
+## Tecnologías utilizadas 💻💿
 
 - **PHP**: Desarrollo del backend utilizando programación orientada a objetos (OOP).
 - **Base de datos**: Se utilizará una base de datos para almacenar los datos históricos y actuales de contaminación por zona.
@@ -16,7 +16,7 @@ Este proyecto está desarrollado en **PHP orientado a objetos** y tiene como obj
 - **JavaScript**: Para manejo de estadisticas.
 - **API de datos de contaminación**: Conexión con fuentes externas para obtener los datos de calidad del aire y contaminación.
 
-## Requisitos previos 💻💿
+## Requisitos previos 🔧⚙️
 
 1. Tener instalado PHP 7.4 o superior.
 2. Base de datos MySQL.
